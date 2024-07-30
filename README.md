@@ -1,4 +1,4 @@
-create an ubuntu box using vagrant (./go_dc.sh) and login in it, juste enter vagrant password
+create an ubuntu box using vagrant (./go_dc.sh) and login in it, just enter vagrant password
 ./deploy.sh --create-debian x will create x debian boxes and start them
 ./deploy.sh --ansible will create the ansible config for these debian boxes
 cd ansible_dir
