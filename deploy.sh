@@ -29,6 +29,8 @@ Aide :
 
 	--start : démarre tous les conteneurs (start) et le service docker si celui-ci n'est pas démarré.
 
+        --ansible : génère la config ansible des conteneurs (uniquement ceux commençant par votre nom de user)
+
 	"
 fi
 # si besoin de configuration du proxy centrale
